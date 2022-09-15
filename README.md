@@ -8,6 +8,7 @@
 - composer install
 - symfony console doctrine:database:create
 - symfony console doctrine:migrations:migrate
+- (optional) symfony console doctrine:fixtures:load --no-interaction
 
 ## Execution 
 

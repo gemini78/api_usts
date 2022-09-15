@@ -6,6 +6,7 @@
 - git clone git@github.com:gemini78/api_usts.git
 - move to the folder
 - composer install
+- symfony console doctrine:database:create
 
 ## Execution 
 

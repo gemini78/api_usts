@@ -7,6 +7,7 @@
 - move to the folder
 - composer install
 - symfony console doctrine:database:create
+- symfony console doctrine:migrations:migrate
 
 ## Execution 
 
